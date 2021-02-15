@@ -1,0 +1,155 @@
+body {
+  background-color: rgba(161, 160, 160, 0.37);
+}
+.navbar {
+  background-color: #4e4e50e0;
+  background-attachment: fixed;
+}
+.navbar {
+  position: relative;
+  width: 100%;
+  height: 60px;
+}
+.btn-1-1 {
+  position: absolute;
+  top: 15%;
+  left: 90%;
+}
+#gmail {
+  position: absolute;
+  top: 100%;
+  left: 90%;
+}
+.btn-1-2 {
+  position: absolute;
+  top: 15%;
+  left: 80%;
+}
+#image-1 {
+  position: absolute;
+  top: 20%;
+  left: 25%;
+}
+#image-1 {
+  position: absolute;
+  width: 50%;
+}
+#paragraph1-produit-1 {
+  position: absolute;
+  top: 82%;
+  left: 25%;
+}
+#paragraph2-produit-1 {
+  position: absolute;
+  top: 86%;
+  left: 25%;
+}
+#boutton-du-produit1 {
+  position: absolute;
+  top: 95%;
+  left: 25%;
+}
+.produit-1 {
+  border: 3px rgb(255, 255, 255);
+}
+#image-2 {
+  position: absolute;
+  top: 15%;
+  left: 23%;
+  width: 60%;
+}
+#image-3 {
+  position: absolute;
+  top: 120%;
+  left: 23%;
+  width: 60%;
+}
+#image-4 {
+  position: absolute;
+  top: 122%;
+  left: 25%;
+}
+#paragraph1-produit-2 {
+  position: absolute;
+  top: 200%;
+  left: 25%;
+}
+#paragraph2-produit-2 {
+  position: absolute;
+  top: 205%;
+  left: 25%;
+}
+#boutton-du-produit2 {
+  position: absolute;
+  top: 210%;
+  left: 25%;
+}
+#image-logo {
+  position: absolute;
+  width: ;
+  height: 50px;
+}
+#téléphone-boutton {
+  position: absolute;
+  top: 10%;
+  left: 75%;
+}
+#téléphone-boutton1 {
+  position: absolute;
+  top: 10%;
+  left: 90%;
+}
+header {
+  background-color: rgb(20, 20, 20);
+}
+@media screen and (max-width: 1125px) {
+  #paragraph1-produit-1 {
+    position: absolute;
+    top: 65%;
+    height: ;
+  }
+  #paragraph2-produit-1 {
+    position: absolute;
+    top: 70%;
+  }
+  #boutton-du-produit1 {
+    position: absolute;
+    top: 79%;
+  }
+  #paragraph1-produit-2 {
+    position: absolute;
+    top: 189%;
+    left: 25%;
+  }
+  #paragraph2-produit-2 {
+    position: absolute;
+    top: 195%;
+    left: 25%;
+  }
+  #boutton-du-produit2 {
+    position: absolute;
+    top: 190%;
+    left: 75%;
+  }
+}
+@media screen and (max-width: 1102px) {
+  #boutton-du-produit1 {
+    position: absolute;
+    top: 76%;
+  }
+  #paragraph1-produit-1 {
+    position: absolute;
+    top: 63%;
+    height: ;
+  }
+  #paragraph2-produit-1 {
+    position: absolute;
+    top: 69%;
+    height: ;
+  }
+  #paragraph2-produit-2 {
+    position: absolute;
+    top: 194%;
+    height: ;
+  }
+}
